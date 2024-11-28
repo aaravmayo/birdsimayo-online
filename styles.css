@@ -1,0 +1,29 @@
+/* Place your CSS styles in this file */
+body{
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-variant: small-caps;
+}
+
+button {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+p1 {
+    text-align: center;
+    font-family: Haettenschweiler;
+    font-variant: inherit;
+    
+}
+
+p {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-variant: inherit;
+    
+}
+
